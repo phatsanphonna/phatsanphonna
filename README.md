@@ -1,7 +1,10 @@
 # Phatsanphon Nakaranurak
-I'm a high school student at Rittityawannalai School
+I'm a high school student at Rittityawannalai School. Wannabe kid to be a Software Engineer. This kid dream's job is a diplomat.
+<br>
+<br><p  align="center">
+  <img  width =300 src="https://i.pinimg.com/originals/50/1a/f8/501af8237381920bd90e4f6cfb1ec55f.gif">
+</p>
 
-<p  align="center"><img  src="https://64.media.tumblr.com/2554c6524d9956af248fcfc732655486/tumblr_p8oe560a4o1x9xe4lo1_500.gifv"></p>
 
 ### 🤖 Favorite Language
 Python Obviously!
