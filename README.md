@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @ssuniie
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Phatsanphon Nakaranurak
+I'm a high school student at Rittityawannalai School
 
-<!---
-ssuniie/ssuniie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p  align="center"><img  src="https://64.media.tumblr.com/2554c6524d9956af248fcfc732655486/tumblr_p8oe560a4o1x9xe4lo1_500.gifv"></p>
+
+### 🤖 Favorite Language
+Python Obviously!
+
+### 😗 Favorite Projects
+[Logker](https://github.com/ssuniie/Logker), Logging Discord bot for every servers.
