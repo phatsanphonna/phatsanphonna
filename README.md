@@ -7,7 +7,7 @@ I'm a high school student at Rittityawannalai School. Wannabe kid to be a Softwa
 
 
 ### 🤖 Favorite Language
-Python Obviously!
+Python, JavaScript and C/C++
 
 ### 😗 Favorite Projects
 [Logker](https://github.com/ssuniie/Logker), Logging Discord bot for every servers.
