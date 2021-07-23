@@ -11,4 +11,4 @@ Python, JavaScript and C/C++
 
 ### 😗 Favorite Projects
 [Logker](https://github.com/ssuniie/Logker), Logging Discord bot for every servers.
-[Quote of the Requests](https://github.com/ssuniie/QuoteOfTheRequests), เว็บหาคำคม/มุข เวลาเราเหงา หรือ คิดคำคม/มุขไม่ออก
+<br>[Quote of the Requests](https://github.com/ssuniie/QuoteOfTheRequests), เว็บหาคำคม/มุข เวลาเราเหงา หรือ คิดคำคม/มุขไม่ออก
