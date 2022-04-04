@@ -14,6 +14,6 @@ Python, JavaScript and C/C++
 <br>[คำคมสุดเฉียบ](https://github.com/ssuniie/good-quotes), เว็บหาคำคม/มุข เวลาเราเหงา หรือ คิดคำคม/มุขไม่ออก
 
 ## Stats
-![ssuniie's GutHub Stats](https://github-readme-stats.vercel.app/api?username=ssuniie&show_icons=true)
+![ssuniie's GutHub Stats](https://github-readme-stats.vercel.app/api?username=phatsanphonna&show_icons=true)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ssuniie&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs?username=ssuniie&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=phatsanphonna&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs?username=phatsanphonna&layout=compact)
