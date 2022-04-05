@@ -1,4 +1,4 @@
-# Phatsanphon Nakaranurak (ssuniie)
+# Phatsanphon Nakaranurak
 I'm a high school student at Rittityawannalai School. Interested in Web Development.
 <br>
 <br><p  align="center">
