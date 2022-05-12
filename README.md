@@ -1,5 +1,5 @@
 # Phatsanphon Nakaranurak
-I'm a high school student at Rittityawannalai School. Interested in Web Development.
+I'm a student at KMITL. Interested in Web Development.
 <br>
 <br><p  align="center">
   <img  width =300 src="https://i.pinimg.com/originals/50/1a/f8/501af8237381920bd90e4f6cfb1ec55f.gif">
