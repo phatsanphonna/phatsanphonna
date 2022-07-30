@@ -1,5 +1,5 @@
 # Phatsanphon Nakaranurak
-I'm a student at IT KMITL. Interested in Web Development.
+I'm a student at IT KMITL. Interested in Cloud Infrastructure, Network and Web Development.
 
 
 
