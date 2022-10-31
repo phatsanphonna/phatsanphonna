@@ -1,5 +1,5 @@
 # Phatsanphon Nakaranurak
-I'm a student at IT KMITL. Interested in Cloud Infrastructure, Network and Web Development.
+I'm a student at School of IT, KMITL. Interested in Cloud Infrastructure, Network and Web Development.
 
 ### 😗 Favorite Projects
 [Logker](https://github.com/ssuniie/Logker), Logging Discord bot for every servers.
