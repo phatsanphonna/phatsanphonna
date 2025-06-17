@@ -1,5 +1,5 @@
 # Phatsanphon Nakaranurak
-I'm a student at School of IT, KMITL. Interested in Cloud Infrastructure, Network and Web Development.
+Student at School of IT, KMITL.
 
 ## Stats
 ![ssuniie's GutHub Stats](https://github-readme-stats.vercel.app/api?username=phatsanphonna&show_icons=true)
